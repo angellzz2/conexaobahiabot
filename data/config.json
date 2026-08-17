@@ -1,0 +1,36 @@
+{
+  "embed": {
+    "title": "💙 Informações",
+    "description": "Utilize **Conectar-se** para se conectar em nosso servidor. Certifique-se de ter o MTA:SA instalado.",
+    "color": "#4169E1",
+    "thumbnail": "",
+    "image": "",
+    "footer": "Status atualizado automaticamente a cada 2 minutos.",
+    "serverNameLabel": "🌐 Nome do servidor:",
+    "serverName": "[BR] SEU SERVIDOR ROLEPLAY | WHITELIST | discord.gg/seuservidor",
+    "statusLabel": "🌍 Status:",
+    "connectLabel": "📡 Conectar - Cole o comando abaixo no F8:",
+    "connectCommand": "mtasa://200.9.154.250:22325"
+  },
+  "status": {
+    "mode": "manual",
+    "manualOnline": true,
+    "onlineText": "🟢 Online",
+    "offlineText": "🔴 Offline",
+    "apiUrl": "",
+    "apiOnlineField": "online",
+    "refreshSeconds": 120
+  },
+  "buttons": {
+    "connectEnabled": true,
+    "connectLabel": "🚀 Conectar-se",
+    "connectUrl": "mtasa://200.9.154.250:22325",
+    "siteEnabled": true,
+    "siteLabel": "💙 Site",
+    "siteUrl": "https://example.com"
+  },
+  "panel": {
+    "channelId": "",
+    "messageId": ""
+  }
+}

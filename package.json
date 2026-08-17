@@ -1,0 +1,14 @@
+{
+  "name": "syncore-mta-status-bot",
+  "version": "1.0.0",
+  "description": "Painel de status MTA totalmente configurável para Discord.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0"
+  }
+}
